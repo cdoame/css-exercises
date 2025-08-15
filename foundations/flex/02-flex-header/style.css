@@ -16,10 +16,11 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
+  gap: 12px;
 }
 
 .left-links {
-  
+
 }
 
 a {
