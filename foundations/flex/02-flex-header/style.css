@@ -20,8 +20,8 @@ ul {
   gap: 12px;
 }
 
-.left-links {
-
+.right-links {
+  margin-left: auto;
 }
 
 a {
