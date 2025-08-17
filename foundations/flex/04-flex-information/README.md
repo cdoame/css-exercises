@@ -15,5 +15,5 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 - There is 32px between the title and the 'items.' (done)
 - There is 52px between each item. (done)
 - The items are arranged horizontally on the page. (done)
-- The items are only 200px wide and the text wraps.
-- The item text is centered.
+- The items are only 200px wide and the text wraps. (done)
+- The item text is centered. (done)
