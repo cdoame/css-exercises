@@ -30,6 +30,15 @@ img {
   gap: 52px;
 }
 
+.item-text {
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.text {
+  width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
