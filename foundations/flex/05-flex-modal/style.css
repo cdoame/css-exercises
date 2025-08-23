@@ -37,6 +37,14 @@ body {
 .icon-container {
   display: flex;
   justify-content: flex-start;
+  margin: 10px;
+  width: 42px;
+}
+
+.message {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 10px 10px 62px;
 }
 
 .close-button {
