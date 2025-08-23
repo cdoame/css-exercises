@@ -28,6 +28,7 @@ input {
 .header,
 .footer {
   display: flex;
+  justify-content: space-between;
 }
 
 .right-links,
@@ -35,6 +36,7 @@ input {
   display: flex;
   list-style: none;
   gap: 15px;
+  padding-right: 40px;
 }
 
 .content {
