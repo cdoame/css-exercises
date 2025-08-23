@@ -43,6 +43,12 @@ body {
   width: 42px;
 }
 
+.header {
+  font-size: large;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
 .message {
   display: flex;
   flex-direction: column;
@@ -66,6 +72,7 @@ body {
 
 .cb-container {
   display: flex;
+  margin-top: 8px;
 }
 
 button {
