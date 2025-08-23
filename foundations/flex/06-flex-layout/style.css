@@ -25,8 +25,16 @@ input {
   width: 400px;
 }
 
-.header {
+.header,
+.footer {
   display: flex;
+}
+
+.right-links,
+.left-links{
+  display: flex;
+  list-style: none;
+  gap: 15px;
 }
 
 .content {
