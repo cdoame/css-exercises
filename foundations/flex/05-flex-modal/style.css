@@ -45,7 +45,7 @@ body {
 .message {
   display: flex;
   flex-direction: column;
-  margin: 10px 10px 10px 62px;
+  margin: 10px 10px 10px 10px;
 }
 
 .close-button {
@@ -79,4 +79,8 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+.button-container {
+  
 }
