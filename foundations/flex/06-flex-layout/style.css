@@ -46,6 +46,10 @@ input {
   background-color: #eeeeee;
 }
 
+a {
+  text-decoration: none;
+}
+
 .content {
   display: flex;
   flex-direction: column;
