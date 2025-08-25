@@ -7,6 +7,10 @@ body {
   justify-content: space-between;
 }
 
+.content {
+  display: flex;
+}
+
 .header {
   height: 72px;
   background: darkmagenta;
